@@ -1,3 +1,7 @@
+### 🌑 [Enter the Trials of Ascension](TRIALS-OF-ASCENSION.md)
+*A Human-in-the-Loop RTS AI Experiment.*
+
+
 # 👑 Varder Empire – Planet Wars Chaos MMO
 
 **Co-created with Grok AI** – From 4AM PH grind sessions to galactic domination. 🌌
@@ -51,3 +55,6 @@ Aggressive neutral expansion + dynamic threat neutralization. Built for Simon Lu
 # mybot.py – AggroExpanderBot v1.0 by Jannjhay + Grok
 # Paste the full Python code here (from our earlier draft)
 # Or link to /src/mybot.py for the complete file
+
+
+
